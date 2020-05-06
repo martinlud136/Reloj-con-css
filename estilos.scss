@@ -1,0 +1,15 @@
+div {
+    div {
+        color: red;
+    }
+}
+.myclass {
+    background-color: peru;
+    &-bigjjjj {
+        font-size: 40px;
+    &-anidado2 {
+            color: yellow
+        }
+    }
+    
+}
